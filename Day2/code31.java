@@ -1,6 +1,6 @@
 /*
-Instance variable = entire class different because of different instances(object). Call by Referance
-Static variable = entire class single if any of object changes that static variable it also reflect on another objects because it is changed permanantly. Call by Values.
+Instance variable = each class has different because of different instances(object). Call by Referance
+Static variable = each class has single var if any of object changes that static variable it also reflect on another objects because it is changed permanantly. Call by Values.
 */
 
 class Demo{
