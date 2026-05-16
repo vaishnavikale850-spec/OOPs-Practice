@@ -1,3 +1,7 @@
+/*
+By using object, we can set(modify) the value of a instance variable as well reassign that value.
+*/
+
 class Demo{
 	public static void main(String [] args){
 		Codex c1 = new Codex("Radha",123,"Satara");
