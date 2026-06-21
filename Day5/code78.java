@@ -1,8 +1,12 @@
-/*1. Compile time polymorphism : method overloading  : Same method name but different parameters
-
+/* Polymorphism : Same method having different behaviour / forms. 
+1. Compile time polymorphism : method overloading  : Same method name but different parameters.
 Error detected at compile time by complier.
+
 2. Run time polymorphism : method overriding  : Method is already implemented  in parent but still child implement it. 
 Error detected at run time by JVM.
+
+1.Compile Time Polymorphism
+
 */
 class Demo{
 	public static void main(String[]args){

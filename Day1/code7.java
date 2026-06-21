@@ -1,6 +1,6 @@
 // Here object is created but does not assign to a variable (reference variable ) and when I write new Codex(); there will be always a new  object of Codex class created and get the memory in heap , class properties and methods can be accessible after memory allocation but address is not stored because of that new Codex().num = 10;
  this line is useless after completion.
- So, to solve this problem we uses refernce variables for futher accessibility of an object / data. 
+ So, to solve this problem we uses reference variables for futher accessibility of an object / data. 
 
 
 class Demo{

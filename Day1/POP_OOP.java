@@ -1,8 +1,10 @@
 /*
 POP = Procedure Oriented Programming Language = C (Dennies Richie)
 OOP = Object Oriented Programming Language = Java (James Gosaling (1995 sun Microsystem))
-POP & OOP = Procedure Oriented Programming Language & Object Oriented Programming Language = CPP, Python, JavaScript
-Java is hybrid language = support oops and pop both. Focus on both functions and classes.
+POP & OOP = Procedure Oriented Programming Language 
+&
+ Object Oriented Programming Language = CPP, Python, JavaScript
+Java is hybrid language = support oops and pop both. Focus on both functions and classes and object also.
 
 code pop = simple calling a method (static method)
 code oop = object creation (non-static method)
@@ -33,7 +35,7 @@ OOPs = focus on OOP concepts like (class, object, interfaces, abstract class, in
 Why java is not pure oop ??
 Smalltalk language are called as pure oop because it contains everything is object but in java 
 int a = 10;
-here int (Primitive data types) and a are not object.
+here int (Primitive data types) but not class this made java almost oops and a are not object.
 
 eg. phonepe , car, food delivery application
 procedural op = Verifying otp, chech balance, deduct money, update

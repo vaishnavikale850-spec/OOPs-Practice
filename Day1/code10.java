@@ -10,7 +10,8 @@ Constructor : Constructor is a special method which is invoked automatically at 
 Types of Constructors:
 1. Non - Parameterized : Does not accept data.
 2. Parameterized : Does accept data.
-3. Copy Constructor : Object2 can copy all the roperties of object1. 
+3. Copy Constructor : Object2 can copy all the properties of object1.
+4.Default constructor : It is called by java automatically when we will not create constructor. 
 
 Obj1 ==> 100
 Obj2 ==> 100

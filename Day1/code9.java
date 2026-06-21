@@ -1,5 +1,5 @@
 /*
-Creating 2 objects and assigning values i.e  students objects are created.
+Creating 2 objects(students) and assigning values i.e  students objects are created.
 */
 
 class Demo{
